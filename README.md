@@ -63,7 +63,7 @@ The dashboard is designed to support data-driven decisions like:
 ## Contact
 Let’s connect!  
 📧 [elikoifman12@email.com]  
-🔗 [LinkedIn][[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/eli-koifman-0a9285224/)]
+🔗 [LinkedIn][[Eli Koifman](https://www.linkedin.com/in/eli-koifman-0a9285224/)]
 
 ---
 
