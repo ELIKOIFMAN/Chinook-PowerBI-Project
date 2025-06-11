@@ -1,4 +1,4 @@
-#� Chinook Digital Media — Power BI Dashboard Project
+# Chinook Digital Media — Power BI Dashboard Project
 
 ## Overview
 This project simulates a digital media company, analyzing customer behavior, revenue performance, and genre demand across regions. 
