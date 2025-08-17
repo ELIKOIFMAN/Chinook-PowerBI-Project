@@ -60,7 +60,7 @@ The dashboard is designed to support data-driven decisions like:
 
 ---
 ## Source
-https://github.com/lerocha/chinook-database?tab=readme-ov-file
+Data source: https://github.com/lerocha/chinook-database?tab=readme-ov-file
 
 ---
 
