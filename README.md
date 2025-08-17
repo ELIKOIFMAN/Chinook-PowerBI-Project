@@ -59,6 +59,10 @@ The dashboard is designed to support data-driven decisions like:
 - How to communicate **data strategy, not just charts**
 
 ---
+## Source
+https://github.com/lerocha/chinook-database?tab=readme-ov-file
+
+---
 
 ## Contact
 Let’s connect!  
